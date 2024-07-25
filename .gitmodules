@@ -1,0 +1,6 @@
+[submodule "packages/lol-summoner-server"]
+	path = packages/lol-summoner-server
+	url = git@github.com:ParrizasDeveloper/lol-summoner-server.git
+[submodule "packages/lol-summoner-client"]
+	path = packages/lol-summoner-client
+	url = git@github.com:ParrizasDeveloper/lol-summoner-client.git
